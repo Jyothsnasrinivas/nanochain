@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="http://www.adjoint.io"><img src="https://www.adjoint.io/images/logo-small.png" width="250"/></a>
+</p>
+
 Nanochain
 =========
 
